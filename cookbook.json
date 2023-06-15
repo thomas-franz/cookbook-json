@@ -443,7 +443,7 @@
         "Remove the tinfoil and bake for another 15 minutes or until its golden brown.",
         "Let it sit for 15 minutes before cutting. (This is VERY IMPORTANT!)"
       ],
-      "categories": ["Dinner", "entree", "Main Course", "Pasta"],
+      "categories": ["Dinner", "Entree", "Main Course", "Pasta"],
       "datePublished": "2021-06-11T12:05:00+00:00"
     },
     {
@@ -476,7 +476,7 @@
         "Mix well to be sure everything is coated.",
         "Serve immediately or store in the fridge in an air tight container."
       ],
-      "categories": ["pasta salad", "Side Dish"],
+      "categories": ["Pasta salad", "Side Dish"],
       "datePublished": "2020-06-06T11:52:47+00:00"
     },
     {
@@ -656,7 +656,7 @@
         "Bake at 400 degrees for 8-10 minutes. Use a toothpick and poke the center of the muffins to check and make sure they are cooked all the way through. The toothpick will come out clean when the muffins are fully cooked.",
         "Transfer muffins to a cooling rack until cool."
       ],
-      "categories": ["Breakfast", "Lunch", "muffin", "Snack"],
+      "categories": ["Breakfast", "Lunch", "Muffin", "Snack"],
       "datePublished": "2019-08-05T21:04:32+00:00"
     },
     {
@@ -1441,7 +1441,7 @@
         "Serve hot.",
         "Refrigerate leftovers within 2 hours."
       ],
-      "categories": ["breakfast", "low fat"],
+      "categories": ["Breakfast", "Low fat"],
       "datePublished": "2021-03-04"
     },
     {
@@ -1528,7 +1528,7 @@
         "Return to the oven and bake for 15 to 20 minutes until the edges are browned and the puffs in the middle are golden. Cool slightly before cutting into 4 pieces. The center puffs will flatten during cooling.",
         "Refrigerate leftovers within 2 hours."
       ],
-      "categories": ["breakfast", "vegetarian"],
+      "categories": ["Breakfast", "Vegetarian"],
       "datePublished": "2021-05-27"
     },
     {
@@ -1556,7 +1556,7 @@
         "Cook until golden on the bottom. Turn and cook on other side.",
         "Refrigerate leftovers within 2 hours."
       ],
-      "categories": ["side dishes", "breakfast", "snacks", "low fat", "vegetarian"],
+      "categories": ["Side dishes", "Breakfast", "Snacks", "Low fat", "Vegetarian"],
       "datePublished": "2021-06-17"
     },
     {
@@ -1613,7 +1613,7 @@
         "Serve immediately.",
         "Refrigerate leftovers within 2 hours."
       ],
-      "categories": ["drinks", "breakfast", "low fat"],
+      "categories": ["Drinks", "Breakfast", "Low fat"],
       "datePublished": "2021-06-21"
     },
     {
